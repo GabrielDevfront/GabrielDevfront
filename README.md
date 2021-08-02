@@ -1,4 +1,8 @@
 ## Oi, Sou Gabriel Francisco e seja bem vindo(a) ao meu perfil ! 😃
+ 
+ * 👨‍🎓Acadêmico de Engenharia de Produção;
+ * 📚Aprendendo Html, Css e JavaScript
+ * 😊 Pronome: Ele/Dele
 
 
 <div>
